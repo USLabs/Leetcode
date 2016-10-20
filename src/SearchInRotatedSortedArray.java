@@ -33,7 +33,7 @@ public class SearchInRotatedSortedArray {
         if (nums[n / 2] < nums[n - 1]) {
             if (target >= nums[n / 2] && target <= nums[n - 1]) {
                 // right
-                int a = n / 2 + search(Arrays.copyOfRange(nums, n / 2, n), target);
+                int a = search(Arrays.copyOfRange(nums, n / 2, n), target);
                 return (a == -1) ? -1 : (n / 2 + a);
             } else {
                 // left
