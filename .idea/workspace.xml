@@ -2,168 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af0c3727-15a4-48fb-979c-540cda96648a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/AsteroidCollision.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Atoi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/BattleshipInABoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/BestTimeToBuyAndSellStock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/BinaryNumberWithAlternatingBits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/CircularArrayLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/CompareVersionNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ContinuousSubarraySum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/CountingBits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/CourseraPlaylist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/DecodeWays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/DegreeOfAnArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/DesignTinyURL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/EvaluateReversePolishNotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/FindBottomLeftTreeValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/FindKthSmallestPairDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/FlattenNestedListIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/FractionToRecurringDecimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/HammingDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/IXL1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/IXL3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/IXL4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/KnightProbabilityInChessboard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/LargestNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/LetterCombinationsOfAPhoneNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/MaximumAreaOfIsland.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/MergeIntervals.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/MinimumGeneticMutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/NestedInteger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/NestedIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/NumberOfAtoms.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/OneBitTwoBit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/PalindromePartitioning.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/PalindromePartitioningII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/PermutationSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Permutations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ProducerConsumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/RemoveNthNodeFromEndOfList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ReverseWordsInAString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/AdditiveNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/BestTimeToBuyAndSellStockWithTransactionFee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/BooleanParenthesization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/CanIWin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/Candy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/CandyCrush.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/ConsecutiveNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/ContainsDuplicate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/CopyListWithRandomPointer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/CountBinarySubstrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/CountCompleteTreeNodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/CountDifferentPalindromicSubsequences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/DesignTinyURLs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/DifferentWaysToAddParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/FindKThSmallestPairDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/MaximumLengthOfRepeatedSubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/MaximumSumOfThreeNonOverlappingSubarrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/MinimumASCIIDeleteSumForTwoStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/MinimumWindowSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/MultiplyStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/PartitionToKEqualSumSubsets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/Pow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/QueueConstructionByHeight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/RemoveInvalidParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/StickersToSpellWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/SurroundedRegions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/TheSkylineProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/TopKFrequentWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Review/ValidateIPAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Roman.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/RomanToInteger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/RotateList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/SemaphoreExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/SetMatrixZeroes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/StickersToSpellWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/StringCompression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/SubarrayProductLessThanK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ThreadPoolExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ThreeSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterCupcakeFeast.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterFixedDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterGeneticMutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterHackingTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterInformationMasking.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterKraken.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterLIS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterLongestPhrasesInATweet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/TwitterRecommendation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Utils/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Utils/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ValidParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ValidateBinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/WaterAndJugProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/WordBreak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/WordBreakII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/WordLadder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ZigZagConversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/courseraMin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practize/Iterators.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Atoi.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ContainerWithMostWater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/DriverInterleavingString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/FullWildCardMatching.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/InterleavingString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ListNodeA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ListNodeB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/LongestPalindromicSubstring.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/LongestSubstringWithoutRepeatingCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/MaximumProductSubarray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/MergeIntervals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/MinimumWindowSubstring.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/NQueens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/PalindromeNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/PartialWildCardMatching.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/PartitionList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/RemoveDuplicatesFromSortedArray2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/RemoveDuplicatesFromSortedArray2Driver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/RemoveDuplicatesFromSortedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/RemoveDuplicatesFromSortedList2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseNodesInKGroups.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/SearchInRotatedSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/SearchInRotatedSortedArray2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/SearchInRotatedSortedArrayDriver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/SortCharactersByFrequency.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/SubstringWithConcatenationOfAllWords.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/SubstringWithConcatenationOfAllWordsDriver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Trie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/TrieNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/WordSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/ZigZagConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/findMedianSortedArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/generateParenthesis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/sipi.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Atoi.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MergeIntervals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ZigZagConversion.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ContainerWithMostWater.java" afterPath="$PROJECT_DIR$/src/Leetcode/ContainerWithMostWater.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FullWildCardMatching.java" afterPath="$PROJECT_DIR$/src/Leetcode/FullWildCardMatching.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InterleavingString.java" afterPath="$PROJECT_DIR$/src/Leetcode/InterleavingString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/src/Leetcode/LongestPalindromicSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" afterPath="$PROJECT_DIR$/src/Leetcode/LongestSubstringWithoutRepeatingCharacters.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MaximumProductSubarray.java" afterPath="$PROJECT_DIR$/src/Leetcode/MaximumProductSubarray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MinimumWindowSubstring.java" afterPath="$PROJECT_DIR$/src/Leetcode/MinimumWindowSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NQueens.java" afterPath="$PROJECT_DIR$/src/Leetcode/NQueens.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PalindromeNumber.java" afterPath="$PROJECT_DIR$/src/Leetcode/PalindromeNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PartialWildCardMatching.java" afterPath="$PROJECT_DIR$/src/Leetcode/PartialWildCardMatching.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PartitionList.java" afterPath="$PROJECT_DIR$/src/Leetcode/PartitionList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray2.java" afterPath="$PROJECT_DIR$/src/Leetcode/RemoveDuplicatesFromSortedArray2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedList.java" afterPath="$PROJECT_DIR$/src/Leetcode/RemoveDuplicatesFromSortedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedList2.java" afterPath="$PROJECT_DIR$/src/Leetcode/RemoveDuplicatesFromSortedList2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReverseInteger.java" afterPath="$PROJECT_DIR$/src/Leetcode/ReverseInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReverseNodesInKGroups.java" afterPath="$PROJECT_DIR$/src/Leetcode/ReverseNodesInKGroups.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SearchInRotatedSortedArray.java" afterPath="$PROJECT_DIR$/src/Leetcode/SearchInRotatedSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SearchInRotatedSortedArray2.java" afterPath="$PROJECT_DIR$/src/Leetcode/SearchInRotatedSortedArray2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortCharactersByFrequency.java" afterPath="$PROJECT_DIR$/src/Leetcode/SortCharactersByFrequency.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SubstringWithConcatenationOfAllWords.java" afterPath="$PROJECT_DIR$/src/Leetcode/SubstringWithConcatenationOfAllWords.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/WordSearch.java" afterPath="$PROJECT_DIR$/src/Leetcode/WordSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/findMedianSortedArrays.java" afterPath="$PROJECT_DIR$/src/Leetcode/findMedianSortedArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/generateParenthesis.java" afterPath="$PROJECT_DIR$/src/Leetcode/generateParenthesis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coursera/CourseraApproximateMatching.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coursera/CourseraPlaylist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coursera/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/PrimeNumberOfSetBitsInBinaryRepresentation.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/CourseraPlaylist.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/IXL1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/IXL3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/IXL4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterCupcakeFeast.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterFixedDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterGeneticMutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterHackingTime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterInformationMasking.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterKraken.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterLIS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterLongestPhrasesInATweet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/TwitterRecommendation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/courseraMin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/playlist.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Leetcode/CourseraPlaylist.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/IXL1.java" afterPath="$PROJECT_DIR$/src/IXL/IXL1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/IXL3.java" afterPath="$PROJECT_DIR$/src/IXL/IXL3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/IXL4.java" afterPath="$PROJECT_DIR$/src/IXL/IXL4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterCupcakeFeast.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterCupcakeFeast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterFixedDistance.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterFixedDistance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterGeneticMutation.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterGeneticMutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterHackingTime.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterHackingTime.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterInformationMasking.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterInformationMasking.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterKraken.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterKraken.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterLIS.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterLIS.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterLongestPhrasesInATweet.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterLongestPhrasesInATweet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/TwitterRecommendation.java" afterPath="$PROJECT_DIR$/src/Twitter/TwitterRecommendation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Leetcode/courseraMin.java" afterPath="$PROJECT_DIR$/src/Coursera/courseraMin.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Runner.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Runner.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_google_guava_guava_18_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_guava_guava_18_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -202,12 +73,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Coursera/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="82" column="5" lean-forward="false" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#324#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -272,12 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/Test2.java" />
-        <option value="$PROJECT_DIR$/src/Test3.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/HammingDistance.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/RomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/PalindromePartitioning.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/PalindromePartitioningII.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/WordBreakII.java" />
@@ -318,11 +199,17 @@
         <option value="$PROJECT_DIR$/src/Leetcode/IXL4.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/IXL2.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/IXL3.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/CourseraPlaylist.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Roman.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/courseraMin.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/playlist.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/PrimeNumberOfSetBitsInBinaryRepresentation.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/CourseraPlaylist.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/CourseraApproximateMatching.java" />
+        <option value="$PROJECT_DIR$/src/Coursera/CourseraPlaylist.java" />
+        <option value="$PROJECT_DIR$/src/IXL/IXL4.java" />
+        <option value="$PROJECT_DIR$/src/Twitter/TwitterRecommendation.java" />
         <option value="$PROJECT_DIR$/src/Runner.java" />
+        <option value="$PROJECT_DIR$/src/Coursera/test.java" />
       </list>
     </option>
   </component>
@@ -333,10 +220,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="-11" />
-    <option name="width" value="1303" />
-    <option name="height" value="780" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -372,7 +259,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -413,7 +299,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
+              <option name="myItemId" value="Coursera" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -421,6 +307,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1035,12 +922,17 @@
       <workItem from="1512460422864" duration="3494000" />
       <workItem from="1513227395462" duration="78000" />
       <workItem from="1515002847832" duration="6147000" />
-      <workItem from="1515298281093" duration="1089000" />
+      <workItem from="1515298281093" duration="2646000" />
+      <workItem from="1515912835652" duration="3769000" />
+      <workItem from="1516096299974" duration="5234000" />
+      <workItem from="1516125101631" duration="3734000" />
+      <workItem from="1516605431005" duration="1194000" />
+      <workItem from="1516696888539" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="919873000" />
+    <option name="totallyTimeSpent" value="935947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1052,8 +944,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1064,7 +955,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28699553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48281017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1076,7 +967,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34230193" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39461884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1591,43 +1482,65 @@
           <option name="timeStamp" value="986" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/TwitterHackingTime.java</url>
+          <url>file://$PROJECT_DIR$/src/Twitter/TwitterHackingTime.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="994" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/TwitterInformationMasking.java</url>
+          <url>file://$PROJECT_DIR$/src/Twitter/TwitterInformationMasking.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="1004" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/CourseraPlaylist.java</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/src/Coursera/CourseraPlaylist.java</url>
+          <line>8</line>
           <properties />
           <option name="timeStamp" value="1009" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/courseraMin.java</url>
+          <url>file://$PROJECT_DIR$/src/Coursera/courseraMin.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="1012" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/courseraMin.java</url>
+          <url>file://$PROJECT_DIR$/src/Coursera/courseraMin.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="1013" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Coursera/CourseraPlaylist.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="1021" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Coursera/CourseraPlaylist.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="1022" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Coursera/test.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="1035" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Coursera/test.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="1036" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1016" />
+      <option name="time" value="1037" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="map.get(arr[i])" language="JAVA" />
-        <watch expression="map.get(arr[i])" language="JAVA" />
-        <watch expression="map" language="JAVA" />
+        <watch expression="list" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1636,28 +1549,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/generateParenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/findMedianSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/jdk1.8.0_131/src.zip!/java/util/Enumeration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Documents/jdk1.8.0_131/src.zip!/java/util/ListIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-550">
@@ -1864,141 +1755,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterRecommendation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterHackingTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Kraken.java" />
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterKraken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterLongestPhrasesInATweet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterGeneticMutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterInformationMasking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterLIS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterCupcakeFeast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/TwitterFixedDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/IXL4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/IXL1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="e#154#155#0" expanded="false" />
-            <element signature="e#205#206#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/IXL2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/IXL3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Romab.java" />
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/CourseraPlaylist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Roman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/courseraMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="36" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/playlist.java" />
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/PrimeNumberOfSetBitsInBinaryRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coursera/CourseraApproximateMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coursera/courseraMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coursera/CourseraPlaylist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IXL/IXL1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IXL/IXL3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterCupcakeFeast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterFixedDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterGeneticMutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterHackingTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterInformationMasking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterKraken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterRecommendation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterLongestPhrasesInATweet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Twitter/TwitterLIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IXL/IXL4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coursera/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="82" column="5" lean-forward="false" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#333#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
